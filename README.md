@@ -14,7 +14,7 @@
 1. [HackFS](https://hackfs.com/#schedule) 6Jul - 6Aug = Scott (lead), Lawrence (support), Bill?, Ross? - persistent evidentory storage
      Working group setup at Web3vm Discord.
      Narrowing down an IPFS-centric solution integrating Filecoin and Ethereum integration and likely NFT tokens in a Crytpovoxel demo and a web2-facing UI. 
-     Will look for ways to take advantage of 'senc' integration for encryption and decryption of messags.         
+     Will look for ways to take advantage of 'senc' integration for encryption and decryption of messages.         
 
 2. [DAO Hack Month](https://daohackmonth.org/) 6Jul - 19Jul = Lawrence (lead) - AuthorNym (anonymous global penNames using hierarchical deterministic walets
 3.  [Arweave Incubator](https://gitcoin.co/hackathon/arweave/onboard) 1Jul - 12Aug = Audssy ((proposed) - LexART, possibly bootstrap LexCORP
