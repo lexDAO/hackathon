@@ -1,4 +1,4 @@
-# Strike Squab
+# Strike Squad
 > roster of lexdao strike squad for web3 hackathons
 
 | Name | Ethereum Address | Role |
