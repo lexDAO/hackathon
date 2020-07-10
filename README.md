@@ -11,12 +11,16 @@
 
 # Current Squabbles
 
-1. [HackFS](https://hackfs.com/#schedule) 6Jul - 6Aug = Scott (lead), Lawrence (support), Bill?, Ross? - persistent evidentory storage
+1. [HackFS](https://hackfs.com/#schedule) 6Jul - 6Aug = Scott (lead), Lawrence (support), Bill?, Ross? - persistent evidence storage
      Working group setup at Web3vm Discord.
-     Narrowing down an IPFS-centric solution integrating Filecoin and Ethereum integration and likely NFT tokens in a Crytpovoxel demo and a web2-facing UI. 
-     Will look for ways to take advantage of 'senc' integration for encryption and decryption of messages.         
+     Narrowing down an IPFS-centric solution integrating Filecoin and Ethereum and likely NFT tokens in a CryptoVoxel demo and a web2-facing UI.
+     Solution will highlight IPFS for vox files, images, documents and JSON files that are used in NFT websites like SuperRare, Opensea, InfiNF and MakersPlace.  
+     Will look for ways to take advantage of 'senc' integration for encryption and decryption of messages (Buckets).
+     Looking at integrating Textile.io threads and buckets, Filecoin, and some pinning schemes using Fleek and Pinata. A Fleek fork may make sense but Pinata will probably just be a hyperlinked feature.  Toying around with the local-ring idea that libp2p offers but that may be too far off target but a realy important feature.         
+     While not a straight-up legal application which may bore the judges, this hack will highlight the underlying technologies that legal engineers will heavily rely on in the future. 
 
 2. [DAO Hack Month](https://daohackmonth.org/) 6Jul - 19Jul = Lawrence (lead) - AuthorNym (anonymous global penNames using hierarchical deterministic walets
+
 3.  [Arweave Incubator](https://gitcoin.co/hackathon/arweave/onboard) 1Jul - 12Aug = Audssy ((proposed) - LexART, possibly bootstrap LexCORP
 
 # Squad Objectives
