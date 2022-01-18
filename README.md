@@ -1,4 +1,4 @@
-## Bakeoff for WY DAO bill
+## Cook-out for WY DAO bill
 
 The difference between a butcher and surgeon is **knowing where to cut**
 
@@ -21,13 +21,14 @@ As external raid, request sufficient LDM tokens for apprentices to earn membersh
 - **Master Chef** Omen
 - **Sous Chef** ([M nominated ... decide Weds govCall])
 - Saucier (responsible for PoAP [TBA])
+- Sommelier (sound stage [TBC Nick])
 - 
 - **Chefs de Partie** - LEETH candidates to break submission into chunks like RWA ownership by LLCs;
 - **Commis Chefs** - LexDAO Apprentices training and line-edits;
-- Kitchen Hands - guests and members commenting on submission
+- Kitchen Hands - guests and members commenting on submission;
 - 
-- **Dishwasher** @drllau - prep & cleanup
-- **Maitre d' mentors** (invited D and T) representing regulators and state agents
+- **Dishwasher** @drllau - prep & cleanup;
+- **Maitre d' mentors** (Donna and Taty) representing regulators and state agents.
 
 ### What
 
@@ -52,10 +53,16 @@ Hackathon will follow classic double-diamond model
 ## Addenda
 ### Where (find details)
 - [Discord](https://discord.gg/mVM9UC85) Wyoming DAO subthread
-- CryptoVoxel (hackathon link TBA)
+- [CryptoVoxel](https://www.cryptovoxels.com/parcels/2223 ) (hackathon social beer-garden)
 
 ### Mut8
-Key changes TBA
+Key changes - the discord channel permissions will be changed during hackathon to handle the traffic
+- #legalstruct-general (unchanged)
+- #entity  (omen for LEETH Chefs de Partie and Commis Chefs apprentices)
+- #account (drllau for members or apprentices only - no visitors)
+- #assigns (members or apprentices only - no visitors)
+
+Contact @drllau for special guest or one-off permission to access.
 
 ### RTFM  
 Wyoming Statutes Title 17 Chapter 31 - DAO
