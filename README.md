@@ -18,14 +18,17 @@ LexDAO is a [guild](https://lexdao.substack.com/p/legal-engineering-certificatio
 As external raid, request sufficient LDM tokens for apprentices to earn membership and **enough gas to mint the PoAPs**. *Optionally* an advance (future grant application of $2k for gitcoin) for bounty for an OpenLaw markdown -> XHTML -> PDF toolchain. The members that **successfully contribute to the wiki** will be considered for [LEETH certification](https://medium.com/@NickJRishwain/legal-engineering-certification-via-nft-by-lexdao-891350abdc2d).
 
 Tentative Budget [TBC Weds governance call]
-- (2-4) x $65-100 - last 4 NFT LexDAO T-shirts
-- 3 signed copies of Lawrence Lessig book (3 x $20)
-- Enought gas to mint PoAPs (~10 chef, ~10 taster, 3 mentors)
+- (2-4) x $65-100 - last 4 NFT LexDAO T-shirts? for (D & T as mentors) + shipping
+- 3 signed copies of Lawrence Lessig book (3 x $20) as prizes for nmembers doing good work
+- Enought gas to mint PoAPs (~10 chef, ~20 taster, 3 mentors)
+- some voting tokens (batch, 1 per **new** extern/apprentice signing up & participating in hackathon)
+- cost to print-shop enough 3-hole bound copies for committee and deliver at U. Wyoming
+Try to keep total < 0.05 ETH (~$200)?
 
 ### Who4
-- **Master Chef** Omen (assemble final edits)
-- **Sous Chef** (Marc nominated ... roundup people)
-- Saucier (responsible for PoAP [TBA])
+- **Master Chef** Marc (nominated assemble final edits)
+- **Sous Chef** Omen (nominated ... roundup people and be MC)
+- Saucier (responsible for PoAP ... [A TBC])
 - Sommelier (sound stage [TBA consult with Nick as to tech])
 - 
 - **Chefs de Partie** - LEETH candidates to break submission into chunks like RWA ownership by LLCs;
@@ -60,7 +63,8 @@ Hackathon will follow classic double-diamond model
 ## Addenda
 ### Where (find details)
 - [Discord](https://discord.gg/mVM9UC85) Wyoming DAO subthread
-- [CryptoVoxel](https://www.cryptovoxels.com/parcels/2223 ) (hackathon social beer-garden)
+- 
+- [CryptoVoxel](https://www.cryptovoxels.com/parcels/2223 ) (~~hackathon social beer-garden~~ Scott seem to renovated ... crowded)
 
 ### Mut8
 Key changes - the discord channel permissions will be changed during hackathon to handle the traffic
@@ -71,15 +75,17 @@ Key changes - the discord channel permissions will be changed during hackathon t
 
 Contact @drllau for special guest or one-off permission to access.
 
+PoAP design still in progression ... something along lines of 
+
 ### RTFM  
 
-Wyoming Statutes Title 17 Chapter 31 - DAO
+Wyoming Statutes Title 17 Chapter 31 - DAO (being tenderised)
 
-Wyoming Statutes Title 17 Chapter 29 - LLC
+Wyoming Statutes Title 17 Chapter 29 - [LLC](https://law.justia.com/codes/wyoming/2020/title-17/chapter-29/)
 
-Wyoming Statutes Title 17 Chapter 28 - Agent
+Wyoming Statutes Title 17 Chapter 28 - [Agent](https://law.justia.com/codes/wyoming/2020/title-17/chapter-28/)
  
 SEC NFT Rule-making [4-771](https://www.sec.gov/rules/petitions/2021/petn4-771.pdf) and [commentary](https://www.natlawreview.com/article/rulemaking-petition-seeks-sec-guidance-nfts)
 
-SEC Digital Asset Rule-making [Prof Verret 4-782](https://www.sec.gov/rules/petitions/2022/petn4-782.pdf) 
+SEC Digital Asset Rule-making [4-782](https://www.sec.gov/rules/petitions/2022/petn4-782.pdf) _Prof. JW Verret#2720_
  
