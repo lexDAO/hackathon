@@ -11,8 +11,11 @@ LexDAO is a [guild](https://lexdao.substack.com/p/legal-engineering-certificatio
 ### How2
 
 1. Convene a hackathon to crowdsource, compile and compose a formal submission based on public policy, market accepted practices (LexDAO prior consults) and specific preferred legislative wording;
-2. Nominate a LexDAO representive to address any questions at the Committee face [vid-meeting](https://wyoleg-gov.zoom.us/webinar/register/WN_ZZ-Tk063RTCbH38Z22SHJw);
-3. Document specific clauses for LLC operating agreements and the matching smart contract into a private wiki.
+    1. get substantive redlining of WY 17-31 by Friday 12pm for consensus review by all members;
+    2. have members split into groups to cite market practices and polish annotations;
+    3. email, printshop at U WY to deliver committee.  
+1. Nominate a LexDAO representive to address any questions at the Committee face [vid-meeting](https://wyoleg-gov.zoom.us/webinar/register/WN_ZZ-Tk063RTCbH38Z22SHJw);
+1. Document specific clauses for LLC operating agreements and the matching smart contract into a private wiki.
 
 ### For3 (How much)
 As external raid, request sufficient LDM tokens for apprentices to earn membership and **enough gas to mint the PoAPs**. *Optionally* an advance (future grant application of $2k for gitcoin) for bounty for an OpenLaw markdown -> XHTML -> PDF toolchain. The members that **successfully contribute to the wiki** will be considered for [LEETH certification](https://medium.com/@NickJRishwain/legal-engineering-certification-via-nft-by-lexdao-891350abdc2d).
@@ -23,12 +26,12 @@ Tentative Budget [TBC Weds governance call]
 - Enought gas to mint PoAPs (~10 chef, ~20 taster, 3 mentors)
 - some voting tokens (batch, 1 per **new** extern/apprentice signing up & participating in hackathon)
 - cost to print-shop enough 3-hole bound copies for committee and deliver at U. Wyoming
-Try to keep total < 0.05 ETH (~$200)?
+Try to keep total < 0.05 ETH (~$200-250), less if cheaper merch gifts?
 
 ### Who4
 - **Master Chef** Marc (nominated assemble final edits)
 - **Sous Chef** Omen (nominated ... roundup people and be MC)
-- Saucier (responsible for PoAP ... [A TBC])
+- Saucier (responsible for PoAP ... Alvinf volunteered)
 - Sommelier (sound stage [TBA consult with Nick as to tech])
 - 
 - **Chefs de Partie** - LEETH candidates to break submission into chunks like RWA ownership by LLCs;
@@ -56,14 +59,14 @@ Try to keep total < 0.05 ETH (~$200)?
  ![doublediamond.png](https://storage.googleapis.com/assets.dework.xyz/uploads/679d5aac-a4f6-43b3-8c47-441ad5b111e2/doublediamond.png)
 
 Hackathon will follow classic double-diamond model
-- Fri - bounty board, social mixers (CryptoVoxel) read LLC and brainstorm on the issues
-- Sat - consensus on the issues, split up document
-- Sun - write up on shared document, assemble & format
+- Fri - bounty board, social mixers (CryptoVoxel) read LLC & compiled suggested legislation changes, and consensus on the issues
+- Sat - split up document, allow visitors to see how operating agreements crafted to opt out of default clauses;
+- Sun - finalise write up on shared document segments, assemble & format as PDF
 
 ## Addenda
 ### Where (find details)
 - [Discord](https://discord.gg/mVM9UC85) Wyoming DAO subthread
-- 
+- [Discord Stage](https://discord.com/events/682960432272506907/933230133635080252) as AMA - 4 speaking slots
 - [CryptoVoxel](https://www.cryptovoxels.com/parcels/2223 ) (~~hackathon social beer-garden~~ Scott seem to renovated ... crowded)
 
 ### Mut8
@@ -79,7 +82,7 @@ PoAP design still in progression ... something along lines of
 
 ### RTFM  
 
-Wyoming Statutes Title 17 Chapter 31 - DAO (being tenderised)
+Wyoming Statutes Title 17 Chapter 31 - DAO (being [tenderised](https://github.com/drllau/hackathon-/blob/master/WY_Statute_Title17/Chapter31-DAO.md))
 
 Wyoming Statutes Title 17 Chapter 29 - [LLC](https://law.justia.com/codes/wyoming/2020/title-17/chapter-29/)
 
