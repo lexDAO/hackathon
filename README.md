@@ -78,7 +78,7 @@ Key changes - the discord channel permissions will be changed during hackathon t
 
 Contact @drllau for special guest or one-off permission to access.
 
-PoAP design still in progression ... something along lines of 
+PoAP design still in progression ... something along lines of cartoonish burger (animated?)
 
 ### RTFM  
 
