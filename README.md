@@ -17,14 +17,19 @@ LexDAO is a [guild](https://lexdao.substack.com/p/legal-engineering-certificatio
 ### For3 (How much)
 As external raid, request sufficient LDM tokens for apprentices to earn membership and **enough gas to mint the PoAPs**. *Optionally* an advance (future grant application of $2k for gitcoin) for bounty for an OpenLaw markdown -> XHTML -> PDF toolchain. The members that **successfully contribute to the wiki** will be considered for [LEETH certification](https://medium.com/@NickJRishwain/legal-engineering-certification-via-nft-by-lexdao-891350abdc2d).
 
+Tentative Budget [TBC Weds governance call]
+- (2-4) x $65-100 - last 4 NFT LexDAO T-shirts
+- 3 signed copies of Lawrence Lessig book (3 x $20)
+- Enought gas to mint PoAPs (~10 chef, ~10 taster, 3 mentors)
+
 ### Who4
-- **Master Chef** Omen
-- **Sous Chef** ([M nominated ... decide Weds govCall])
+- **Master Chef** Omen (assemble final edits)
+- **Sous Chef** (Marc nominated ... roundup people)
 - Saucier (responsible for PoAP [TBA])
-- Sommelier (sound stage [TBC Nick])
+- Sommelier (sound stage [TBA consult with Nick as to tech])
 - 
 - **Chefs de Partie** - LEETH candidates to break submission into chunks like RWA ownership by LLCs;
-- **Commis Chefs** - LexDAO Apprentices training and line-edits;
+- **Commis Chefs** - LexDAO members training up web3 skills and line-edits;
 - Kitchen Hands - guests and members commenting on submission;
 - 
 - **Dishwasher** @drllau - prep & cleanup;
@@ -33,14 +38,16 @@ As external raid, request sufficient LDM tokens for apprentices to earn membersh
 ### What
 
 - crowdsoruce [criticism](https://lexdao.substack.com/p/wyoming-built-a-home-for-daos-but) of WY DAO;
-- look at specific legislative provisions and simplify
-- write recommendations based on policy objective
+- look at specific legislative provisions and simplify (eg _Roles not Offices_ means audit trail not piecemeal wet-ink reports);
+- write recommendations based on policy objective (as per COALA).
 
  ![Scallop.png](https://storage.googleapis.com/assets.dework.xyz/uploads/d2458746-291c-4a63-b260-c1ded09eb5d3/Scallop.png)
 
 ### When
+
+- Weds 12pm [Governance call](https://discord.gg/5PsZYCBz?event=931580979708059648) on budget approval and apprenticeship scheme
 1. Fri 21st Jan 12pm kickoff - finishes Sun 6pm EST.
-2. Weds 25th Jan 8:30am WY Senate Committe meeting
+2. Weds 25th Jan 8:30am WY Senate Committe meeting;
 3. close end of season 1 with private Wiki on good practices (eg Series LLC)
 
  ![doublediamond.png](https://storage.googleapis.com/assets.dework.xyz/uploads/679d5aac-a4f6-43b3-8c47-441ad5b111e2/doublediamond.png)
