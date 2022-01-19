@@ -72,9 +72,14 @@ Key changes - the discord channel permissions will be changed during hackathon t
 Contact @drllau for special guest or one-off permission to access.
 
 ### RTFM  
+
 Wyoming Statutes Title 17 Chapter 31 - DAO
+
 Wyoming Statutes Title 17 Chapter 29 - LLC
+
 Wyoming Statutes Title 17 Chapter 28 - Agent
  
- 
+SEC NFT Rule-making [4-771](https://www.sec.gov/rules/petitions/2021/petn4-771.pdf) and [commentary](https://www.natlawreview.com/article/rulemaking-petition-seeks-sec-guidance-nfts)
+
+SEC Digital Asset Rule-making [Prof Verret 4-782](https://www.sec.gov/rules/petitions/2022/petn4-782.pdf) 
  
