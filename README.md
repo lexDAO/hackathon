@@ -20,7 +20,7 @@ LexDAO is a [guild](https://lexdao.substack.com/p/legal-engineering-certificatio
 ### For3 (How much)
 As external raid, request sufficient LDM tokens for apprentices to earn membership and **enough gas to mint the PoAPs**. *Optionally* an advance (future grant application of $2k for gitcoin) for bounty for an OpenLaw markdown -> XHTML -> PDF toolchain. The members that **successfully contribute to the wiki** will be considered for [LEETH certification](https://medium.com/@NickJRishwain/legal-engineering-certification-via-nft-by-lexdao-891350abdc2d).
 
-Tentative Budget [TBC Weds governance call]
+Tentative Budget [TBC Weds governance call](https://docs.google.com/document/d/1iTufaenJmaVNAjz6T8wJdCGPGwnfknUVYsCKGDMR07I/edit#heading=h.75cn2ohzl3m5)
 - (2-4) x $65-100 - last 4 NFT LexDAO T-shirts? for (D & T as mentors) + shipping
 - 3 signed copies of Lawrence Lessig book (3 x $20) as prizes for nmembers doing good work
 - Enought gas to mint PoAPs (~10 chef, ~20 taster, 3 mentors)
