@@ -13,9 +13,9 @@ LexDAO is a [guild](https://lexdao.substack.com/p/legal-engineering-certificatio
 1. Convene a hackathon to crowdsource, compile and compose a formal submission based on public policy, market accepted practices (LexDAO prior consults) and specific preferred legislative wording;
     1. get substantive redlining of WY 17-31 by Friday 12pm for consensus review by all members;
     2. have members split into groups to cite market practices and polish annotations;
-    3. email, printshop at U WY to deliver committee.  
+    3. Master-Chef to assemble final doc, convene snapshot vote to members to approve, email committee.  
 1. Nominate a LexDAO representive to address any questions at the Committee face [vid-meeting](https://wyoleg-gov.zoom.us/webinar/register/WN_ZZ-Tk063RTCbH38Z22SHJw);
-1. Document specific clauses for LLC operating agreements and the matching smart contract into a private wiki.
+1. Document specific clauses for LLC [operating agreements](https://github.com/drllau/hackathon-/blob/master/Form_of_WY_LLC_DaoOpAgreement_Fascist.html) and the matching smart contract into a private wiki.
 
 ### For3 (How much)
 As external raid, request sufficient LDM tokens for apprentices to earn membership and **enough gas to mint the PoAPs**. *Optionally* an advance (future grant application of $2k for gitcoin) for bounty for an OpenLaw markdown -> XHTML -> PDF toolchain. The members that **successfully contribute to the wiki** will be considered for [LEETH certification](https://medium.com/@NickJRishwain/legal-engineering-certification-via-nft-by-lexdao-891350abdc2d).
