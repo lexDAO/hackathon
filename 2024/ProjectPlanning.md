@@ -40,4 +40,8 @@
 
 I looked at the Yaga Labs case which suggest USPTO can change its practices.
 
+![image](https://github.com/lexDAO/LexDAO-Articles/assets/14944510/7cc7babe-a47a-429a-bd12-400f2c0250bd)
+
+----
+
 # Timeline /tbd/
