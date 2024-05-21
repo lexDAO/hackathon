@@ -1,3 +1,5 @@
+Lexty Nixy Simsy Gets In 
+
 Graphics for the hackathon channel in discord
 
 # Stickers
