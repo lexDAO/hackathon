@@ -26,3 +26,5 @@ In the classic [MIT style](https://en.wikipedia.org/wiki/Dungeon_crawl) with ref
 # USPTO
 
 The USPTO could be considered to be a procedural driven labyrith in that the TMEP comprises the rules. and you survive by reaching your bjective or changing the rules (akin to agora).
+
+![OpFor](./OpFor.png?raw=true)
