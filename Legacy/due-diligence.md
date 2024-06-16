@@ -4,4 +4,4 @@
 
 LexDAO LLC incorporated 11th Feb 2020 as per
 
-![Delaware](./Screenshot_2024-05-31-21-51-11-418.png?raw=true)
+![Delaware](./Screenshot_20240616-221458.png?raw=true)
